@@ -28,13 +28,16 @@
 
 ## 📦 下载 · Download
 
-前往 **[Releases 页面](https://github.com/HangRuan/Hivora/releases/latest)** 下载对应平台的安装包：
+点击下方链接，自动下载**最新版本**对应平台的安装包：
 
-| 平台 Platform | 文件 File | 说明 |
+| 平台 Platform | 直接下载 Download | 说明 |
 | --- | --- | --- |
-| macOS (Apple Silicon) | `Hivora-macos-arm64.dmg` | M 系列芯片 |
-| macOS (Intel) | `Hivora-macos-x86_64.dmg` | Intel 芯片 |
-| Windows (64-bit) | `Hivora-windows-x86_64.zip` | Windows 10/11 |
+| macOS (Apple Silicon) | [⬇ HivoraData-macos-arm64.dmg](https://github.com/HangRuan/Hivora/releases/latest/download/HivoraData-macos-arm64.dmg) | M 系列芯片 |
+| macOS (Intel) | [⬇ HivoraData-macos-x86_64.dmg](https://github.com/HangRuan/Hivora/releases/latest/download/HivoraData-macos-x86_64.dmg) | Intel 芯片 |
+| Windows (64-bit) | [⬇ HivoraData-windows-x86_64.zip](https://github.com/HangRuan/Hivora/releases/latest/download/HivoraData-windows-x86_64.zip) | Windows 10/11 |
+
+> 以上链接通过 GitHub 的 `releases/latest/download/` 机制自动指向最新版本，无需修改版本号。
+> 也可前往 [Releases 页面](https://github.com/HangRuan/Hivora/releases/latest) 手动选择版本。
 
 ---
 
